@@ -6,3 +6,5 @@
 [ ] - Create a Actions workflow
 [ ] - Create a first Release
 [ ] - Create a first Package
+[ ] - Create a Milestones
+[ ] - Select Team Members for Code Review
