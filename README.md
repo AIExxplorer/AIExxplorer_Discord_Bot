@@ -1,4 +1,4 @@
-# AIExxplorer_Discord_Bot# AIExxplorer Discord Bot 🚀
+# AIExxplorer Discord Bot 🚀
 
 O **AIExxplorer Discord Bot** é uma solução inovadora para potencializar a organização e interatividade dos servidores do Discord. Com uma interface intuitiva e funcionalidades avançadas, o bot atua na automação de tarefas, controle de mensagens, integração com webhooks e, de forma diferenciada, na busca de materiais de estudo e livros 📚 de acervos especializados hospedados no GitHub.
 
