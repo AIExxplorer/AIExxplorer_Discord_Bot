@@ -8,3 +8,4 @@
 [ ] - Create a first Package
 [ ] - Create a Milestones
 [ ] - Select Team Members for Code Review
+[ ] - Update README.md
